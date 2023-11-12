@@ -4,5 +4,6 @@ public class OOpLessonRunner {
     public static void main(String[] args) {
 
         new LapTop();
+        System.out.println(" ");
     }
 }
